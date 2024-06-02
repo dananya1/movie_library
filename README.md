@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/movie-library.git
+    git clone https://github.com/dananya1/movie_library
     cd movie-library
     ```
 
